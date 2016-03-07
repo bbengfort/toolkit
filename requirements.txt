@@ -1,0 +1,12 @@
+## clock.py requirements
+python-dateutil==2.5.0
+
+## utilities
+six==1.10.0
+
+## pip stuff
+#Python==2.7.10
+#pip==8.1.0
+#setuptools==19.4
+#wheel==0.26.0
+#wsgiref==0.1.2
