@@ -7,7 +7,7 @@
 # Copyright (C) 2013 Bengfort.com
 # For license information, see LICENSE.txt
 #
-# ID: __init__.py [] benjamin@bengfort.com $
+# ID: __init__.py [68d8fde] benjamin@bengfort.com $
 
 """
 Just a small testing package, nothing to see here.

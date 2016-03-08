@@ -8,7 +8,7 @@
 # Copyright (C) 2016 Bengfort.com
 # For license information, see LICENSE.txt
 #
-# ID: requires.py [] benjamin@bengfort.com $
+# ID: requires.py [68d8fde] benjamin@bengfort.com $
 
 """
 Creates a requirements.txt file with pip freeze, but does a better job at

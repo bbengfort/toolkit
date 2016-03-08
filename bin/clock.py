@@ -8,7 +8,7 @@
 # Copyright (C) 2014 Bengfort.com
 # For license information, see LICENSE.txt
 #
-# ID: clock.py [] benjamin@bengfort.com $
+# ID: clock.py [68d8fde] benjamin@bengfort.com $
 
 """
 Prints out the time specially formatted
