@@ -3,7 +3,7 @@
 # Generates unique, long, reproducible passwords.
 #
 # Author:   Benjamin Bengfort <benjamin@bengfort.com>
-# Created:  codetime
+# Created:  A while ago (see blog post)
 #
 # Copyright (C) 2016 Bengfort.com
 # Licensed as Open Source under an MIT License.
